@@ -160,6 +160,7 @@ Add an embedded video from [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## Exercise 4
 
+```C#
 public class Person{
   private string name;
   private int age;
@@ -178,3 +179,4 @@ public class Person{
     this.age = this.age + 1;
   }
 }
+```
